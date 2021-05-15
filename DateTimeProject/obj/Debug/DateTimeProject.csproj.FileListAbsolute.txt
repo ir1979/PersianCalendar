@@ -1,0 +1,9 @@
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G2\DateTimeProject\DateTimeProject\bin\Debug\DateTimeProject.exe.config
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G2\DateTimeProject\DateTimeProject\bin\Debug\DateTimeProject.exe
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G2\DateTimeProject\DateTimeProject\bin\Debug\DateTimeProject.pdb
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G2\DateTimeProject\DateTimeProject\obj\Debug\DateTimeProject.csprojAssemblyReference.cache
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G2\DateTimeProject\DateTimeProject\obj\Debug\DateTimeProject.csproj.CoreCompileInputs.cache
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G2\DateTimeProject\DateTimeProject\obj\Debug\DateTimeProject.exe
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G2\DateTimeProject\DateTimeProject\obj\Debug\DateTimeProject.pdb
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G2\DateTimeProject\DateTimeProject\bin\Debug\PersianDate.dll
+D:\RM\Online\Dropbox\Courses\CSharp Lab\Projects\3992\G2\DateTimeProject\DateTimeProject\obj\Debug\DateTimeProject.csproj.CopyComplete
