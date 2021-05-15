@@ -10,7 +10,7 @@ namespace DateTimeProject
     {
         static void Main(string[] args)
         {
-            MyDate A = new MyDate(1400, 2, 25);
+            MyDate A = new MyDate(1400, 3, 25);
             MyDate B = A + 1;
 
             Console.WriteLine(B);
